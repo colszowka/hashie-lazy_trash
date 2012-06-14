@@ -1,4 +1,5 @@
-# Hashie::LazyTrash [![Build Status](https://secure.travis-ci.org/colszowka/hashie-lazy_trash.png)][Continuous Integration]
+Hashie::LazyTrash [![Build Status](https://secure.travis-ci.org/colszowka/hashie-lazy_trash.png)][Continuous Integration]
+==================
 
 An extended `Hashie::Trash` with the following 2 additional features:
 
